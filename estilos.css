@@ -1,0 +1,40 @@
+ html {
+   width: 1000px;
+   margin: 20px auto;
+   padding: 50px;
+   border-width: 1px;
+   style="text-align:center;
+   background: gray;
+   border: yellow 10px solid;
+   color: #FF0000;
+/* "Color" es la propiedad y "red" el valor */
+  	font-size: 50px; 
+/* "font-size" es la propiedad y "12px" el valor */
+}
+
+ header {
+	color: #00FF00;
+	font-family: 'lato';
+	font-size: 18px; 
+	line-height: 12;
+	text-align: center;
+}
+
+ p {
+	color: #008080;
+	font-family: 'lato';
+	font-size: 18px; 
+}
+
+ div {
+	color: #008000;
+	font-family: 'lato';
+	font-size: 18px; 
+}
+
+ 
+ span {
+	color: #FF0000;
+	font-family: 'lato';
+	font-size: 18px; 
+} 
